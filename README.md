@@ -5,7 +5,7 @@
 The project categorizes waste into biodegradable, non-recyclable, recyclable, and reusable categories using machine learning. It includes data preparation, augmentation, and a convolutional neural network (CNN) model trained on labeled datasets to improve sustainability and waste management.
 
 ## Execution Guide:
-1. Run the following command line in your terminal:
+1. Clone the repository:
    ```
    git clone https://github.com/kr1shnasomani/WasteWise.git
    cd WasteWise
