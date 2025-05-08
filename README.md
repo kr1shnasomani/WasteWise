@@ -35,7 +35,3 @@ The project categorizes waste into biodegradable, non-recyclable, recyclable, an
 ![image](https://github.com/user-attachments/assets/2dee0f98-6ae9-47ab-af39-f42f2c7a72e1)
 
 ![image](https://github.com/user-attachments/assets/28a76ab1-bd49-4c88-ae98-0cf4ded9d80b)
-
-#### 8. **Class Weighting (Optional)**
-
-You may use **`compute_class_weight`** from Scikit-learn if your dataset has class imbalance. This assigns higher weight to underrepresented classes to balance the contribution of each class during training.
